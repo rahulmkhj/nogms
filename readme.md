@@ -1,4 +1,4 @@
-#NOG Management System
+# NOG Management System
 
 At [INNOG](https://innog.net) we are working on building a platform to streamline
 process of our annual NOG events. The source code is put on GitHub with the intention
@@ -11,8 +11,9 @@ of making it usable for other NOGs as well.
 > testing features from a user's perspective. If you have the zeal and time
 > to invest in this project, I am just an email away: rahulmkhj@gmail.com_
 
+### Following is a list of planned features:
+
 ---
-###Following is a list of planned features:
 
 1. Admin will:
     - create an event
