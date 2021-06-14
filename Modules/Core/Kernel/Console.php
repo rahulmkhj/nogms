@@ -1,11 +1,13 @@
 <?php
 
-namespace App\Console;
+
+namespace NOGMS\Core\Kernel;
+
 
 use Illuminate\Console\Scheduling\Schedule;
-use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
+use Illuminate\Foundation\Console\Kernel;
 
-class Kernel extends ConsoleKernel
+class Console extends Kernel
 {
     /**
      * The Artisan commands provided by your application.

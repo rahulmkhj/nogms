@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models;
+namespace NOGMS\Base\Models;
 
 use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Database\Eloquent\Factories\HasFactory;

@@ -169,11 +169,11 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        // App\Providers\BroadcastServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        NOGMS\Core\Providers\AppServiceProvider::class,
+        NOGMS\Core\Providers\AuthServiceProvider::class,
+        // NOGMS\Core\Providers\BroadcastServiceProvider::class,
+        NOGMS\Core\Providers\EventServiceProvider::class,
+        NOGMS\Core\Providers\RouteServiceProvider::class,
 
     ],
 
