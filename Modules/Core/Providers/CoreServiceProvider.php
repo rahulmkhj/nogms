@@ -6,6 +6,7 @@ namespace NOGMS\Core\Providers;
 
 
 use Illuminate\Support\ServiceProvider;
+use NOGMS\Base\Providers\BaseServiceProvider;
 use NOGMS\ModulesRegistry;
 
 /**
@@ -21,7 +22,7 @@ class CoreServiceProvider extends ServiceProvider
      * @var array
      */
     protected $coreServiceProviders = [
-
+        BaseServiceProvider::class,
     ];
 
 
