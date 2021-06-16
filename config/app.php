@@ -169,7 +169,7 @@ return [
         /*
          * Application Service Providers...
          */
-
+        \NOGMS\Core\Providers\CoreServiceProvider::class,
 
     ],
 
