@@ -34,8 +34,8 @@
                     @csrf
                     <div class="col-md-12">
                         <div class="card-body">
+                            <img src="{{asset('assets/images/nogms-logo-vertical-dark.svg')}}" alt="" class="img-fluid mb-4">
                             <h4 class="mb-4 f-w-400">
-                                <span><strong>NOGMS</strong></span> &nbsp;|&nbsp;
                                 sign-in</h4>
                             <div class="input-group mb-3">
                                 <span class="input-group-text"><i data-feather="mail"></i></span>
