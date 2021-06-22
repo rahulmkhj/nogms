@@ -26,7 +26,10 @@
             "NOGMS\\": "Modules/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/"
-        }
+        },
+        "files": [
+            "Modules/Helpers/HelperFunctions.php"
+        ]
     },
     "autoload-dev": {
         "psr-4": {
