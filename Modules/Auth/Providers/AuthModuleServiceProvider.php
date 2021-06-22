@@ -10,6 +10,6 @@ class AuthModuleServiceProvider extends ServiceProvider
 {
     public function boot()
     {
-        $this->loadViewsFrom(base_path('Modules/Auth/Html/Views'), 'AuthViews');
+        $this->loadViewsFrom(modules_path('Auth/Html/Views'), 'AuthViews');
     }
 }
