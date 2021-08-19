@@ -10,6 +10,6 @@ class TasksModuleServiceProvider extends ServiceProvider
 {
     public function boot()
     {
-        $this->loadViewsFrom(modules_path('Auth/Html/Views'), 'TasksViews');
+        $this->loadViewsFrom(modules_path('Tasks/Html/Views'), 'TasksViews');
     }
 }
