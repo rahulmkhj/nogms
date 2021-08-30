@@ -16,6 +16,8 @@ _The ultimate goal is to make the project usable for as many NOGs as possible._
 
 Checkout project wiki for [planned features](https://github.com/rahulmkhj/nogms/wiki/Planned-Features-List)
 
+I also maintain a [supporters page](https://github.com/rahulmkhj/nogms/wiki/Supporters) to credit 
+those who have contributed to the project.
 
 > _As of first commit, I am the only developer working on it. 
 > If you're a HTML/CSS OR Laravel/PHP developer
