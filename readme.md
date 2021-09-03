@@ -14,7 +14,8 @@ I will try to reach out to other NOGs in the region to discuss the idea, as & wh
 _The ultimate goal is to make the project usable for as many NOGs as possible._
 
 
-Checkout project wiki for [planned features](https://github.com/rahulmkhj/nogms/wiki/Planned-Features-List)
+Checkout project wiki for [planned features](https://github.com/rahulmkhj/nogms/wiki/Planned-Features-List) and 
+[Screenshots](https://github.com/rahulmkhj/nogms/wiki/Screenshots) see how the UI looks like.
 
 I also maintain a [supporters page](https://github.com/rahulmkhj/nogms/wiki/Supporters) to credit 
 those who have contributed to the project.
