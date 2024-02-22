@@ -18,7 +18,7 @@ class Http extends Kernel
     protected $middleware = [
         // \NOGMS\Core\Middleware\TrustHosts::class,
         \NOGMS\Core\Middleware\TrustProxies::class,
-        \Fruitcake\Cors\HandleCors::class,
+        \Illuminate\Http\Middleware\HandleCors::class,
         \NOGMS\Core\Middleware\PreventRequestsDuringMaintenance::class,
         \Illuminate\Foundation\Http\Middleware\ValidatePostSize::class,
         \NOGMS\Core\Middleware\TrimStrings::class,
